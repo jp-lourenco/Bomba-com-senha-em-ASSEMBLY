@@ -10,7 +10,5 @@ Clock: 4MHz
 
 Autor: João Pedro Lourenço  Data: 15/11/2018
 
-list p=16f877
 
-
-# Código bem detalhado e comentado.
+# Código comentado para iniciantes e com todos o detalhes documentados.
