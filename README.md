@@ -11,4 +11,4 @@ Clock: 4MHz
 Autor: João Pedro Lourenço  Data: 15/11/2018
 
 
-# Código comentado para iniciantes e com todos o detalhes documentados.
+# Código com comentários para iniciantes e com todos os detalhes documentados.
